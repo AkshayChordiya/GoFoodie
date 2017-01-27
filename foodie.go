@@ -11,8 +11,7 @@ import (
 type Food struct {
 	Name        string `json:"name"`
 	MarathiName string `json:"marathi_name"`
-	Benefit     string `json:"benefit"`
-	//Dishes []string `json:"dishes"`
+	Benefit     []string `json:"benefit"`
 }
 
 func check(e error) {
@@ -35,6 +34,13 @@ func main() {
 	food := foods[random(0, len(foods))]
 
 	// Show the food of the day
-	fmt.Println("\nYour today's yummy dish to make is: ")
-	fmt.Printf("%s (%s)", food.Name, food.MarathiName)
+	fmt.Printf("\nYour today's yummy dish to make is: %s (%s)", food.Name, food.MarathiName)
+	if len(food.Benefit) > 0 {
+		fmt.Println("\nBenefits of eating this yummy dish: ")
+		for index, benefit := range food.Benefit {
+			fmt.Printf("\n%d. %s", index+1, benefit)
+		}
+	} else {
+		fmt.Println("\nNo such specific benefit. Except this dish is super yummy!")
+	}
 }

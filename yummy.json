@@ -2,101 +2,154 @@
   {
     "name": "Lentil",
     "marathi_name": "Matki",
-    "benefit": ""
+    "benefit": [
+      "Lower Cholesterol",
+      "Heart Health",
+      "Digestive Health",
+      "Stabilized Blood Sugar",
+      "Good Protein",
+      "Increases Energy",
+      "Weight Loss"
+    ]
   },
   {
     "name": "Okra",
     "marathi_name": "Bhendi",
-    "benefit": ""
+    "benefit": [
+      "Digestive Health",
+      "Vision Booster",
+      "Skin Health",
+      "Immune System",
+      "Blood Pressure and Heart Health"
+    ]
   },
   {
     "name": "Tomato",
-    "marathi_name": "Tamata",
-    "benefit": ""
+    "marathi_name": "Tomato Chatni",
+    "benefit": [
+      "Reduce Heart Disease",
+      "Vitamin And Mineral Rich",
+      "Prevent Kidney And Gall Bladder Stones",
+      "Reduce Blood Clot Risks",
+      "Increases Fat Burning Capacity"
+    ]
   },
   {
     "name": "Onion",
     "marathi_name": "Kanda",
-    "benefit": ""
+    "benefit": [
+      "Improve Immunity",
+      "Regulating Blood Sugar",
+      "Prevent Cancer",
+      "Reduce Risk Of Ulcers"
+    ]
   },
   {
     "name": "Green Peas",
     "marathi_name": "Vatana",
-    "benefit": ""
+    "benefit": [
+      "Weight Management",
+      "Stomach Cancer Prevention",
+      "Prevention Of Wrinkles",
+      "Reduces Bad Cholesterol"
+    ]
   },
   {
     "name": "French Beans",
     "marathi_name": "Shravani Ghevda",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Fenugreek",
     "marathi_name": "Methi",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Spinach",
     "marathi_name": "Pallak",
-    "benefit": ""
+    "benefit": [
+      "Asthma Prevention",
+      "Healthy Skin And Hair",
+      "Diabetes Management",
+      "Cancer Prevention"
+    ]
   },
   {
     "name": "Chickpeas Flour",
     "marathi_name": "Besan",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Dill",
     "marathi_name": "Shepu",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Potato",
     "marathi_name": "Batata",
-    "benefit": ""
+    "benefit": [
+      "Bone Health",
+      "Inflammation",
+      "Blood Pressure"
+    ]
   },
   {
-    "name": "Bitter gourd",
+    "name": "Bitter Gourd",
     "marathi_name": "Karla",
-    "benefit": ""
+    "benefit": [
+      "Antioxidant",
+      "Constipation Prevention",
+      "Asthma Prevention"
+    ]
   },
   {
-    "name": "Ridge gourd",
+    "name": "Ridge Gourd",
     "marathi_name": "Dodka",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Cabbage",
     "marathi_name": "Kobi",
-    "benefit": ""
+    "benefit": [
+      "Protection From Radiation Therapy",
+      "Immunity And Digestion",
+      "Heart Health"
+    ]
   },
   {
     "name": "Cauliflower",
     "marathi_name": "Flawar",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Brinjal",
     "marathi_name": "Vangh",
-    "benefit": ""
+    "benefit": []
   },
   {
-    "name": "Cluster bean",
+    "name": "Cluster Bean",
     "marathi_name": "Gavar",
-    "benefit": ""
+    "benefit": [
+      "Full Of Nutrients",
+      "Have Low Glycemic Index",
+      "Make Bone Strong",
+      "Recommended During Pregnancy",
+      "Calms The Brain"
+    ]
   },
   {
     "name": "Turmeric",
     "marathi_name": "Haldi ki bhaji",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Paneer",
     "marathi_name": "Paneer",
-    "benefit": ""
+    "benefit": []
   },
   {
     "name": "Pav Bhaji",
     "marathi_name": "Pav Bhaji",
-    "benefit": ""
+    "benefit": []
   }
 ]
