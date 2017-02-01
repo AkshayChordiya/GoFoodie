@@ -57,12 +57,21 @@
   {
     "name": "French Beans",
     "marathi_name": "Shravani Ghevda",
-    "benefit": []
+    "benefit": [
+      "Reduce Risk Of Cardiovascular Disease.",
+      "Boost Immune System",
+      "Helps To Prevent Colon Cancer",
+      "Prevent Bone Deterioration And Osteroporosis"
+    ]
   },
   {
     "name": "Fenugreek",
     "marathi_name": "Methi",
-    "benefit": []
+    "benefit": [
+      "Relief For Sore Throats",
+      "Relieves Constipation",
+      "Good For Kidney Trouble"
+    ]
   },
   {
     "name": "Spinach",
@@ -77,12 +86,21 @@
   {
     "name": "Chickpeas Flour",
     "marathi_name": "Besan",
-    "benefit": []
+    "benefit": [
+      "Great Source Of Fiber",
+      "Helps Improve Heart Health",
+      "Stabilizes Blood Sugar And May Prevent Diabetes.",
+      "Lowers Inflammation And Improves Immune Function."
+    ]
   },
   {
     "name": "Dill",
     "marathi_name": "Shepu",
-    "benefit": []
+    "benefit": [
+      "Cure Respiratory Disorders",
+      "Calms Down Hiccups Due To Allergies",
+      "Aids In Digestion And Cure Diarrhea And Dysentery."
+    ]
   },
   {
     "name": "Potato",
@@ -105,7 +123,11 @@
   {
     "name": "Ridge Gourd",
     "marathi_name": "Dodka",
-    "benefit": []
+    "benefit": [
+      "Prevent Eye Ailments",
+      "Prevent Muscle Pain",
+      "Reduce Migraine Headaches "
+    ]
   },
   {
     "name": "Cabbage",
@@ -119,12 +141,21 @@
   {
     "name": "Cauliflower",
     "marathi_name": "Flawar",
-    "benefit": []
+    "benefit": [
+      "Anti Inflammatory",
+      "Boost Your Brain Health",
+      "Detoxification Support."
+    ]
   },
   {
     "name": "Brinjal",
     "marathi_name": "Vangh",
-    "benefit": []
+    "benefit": [
+      "Great For Weight Loss",
+      "Controls Blood Pressure",
+      "Lower Cholesterol In The Body",
+      "Gives Your Skin A Natural Glow"
+    ]
   },
   {
     "name": "Cluster Bean",
@@ -140,16 +171,30 @@
   {
     "name": "Turmeric",
     "marathi_name": "Haldi ki bhaji",
-    "benefit": []
+    "benefit": [
+      "Heals Wound",
+      "Increases The Antioxidant Capacity Of The Body",
+      "Useful In Preventing And Treating Alzheimer’S Disease",
+      "Has Incredible Benefits Against Depression",
+      "May Help Delay Aging And Fight Age-Related Chronic Diseases"
+    ]
   },
   {
     "name": "Paneer",
     "marathi_name": "Paneer",
-    "benefit": []
+    "benefit": [
+      "Good For Bone Health",
+      "Rich In Protein",
+      "It Can Fight With Rheumatoid Arthritis"
+    ]
   },
   {
     "name": "Pav Bhaji",
     "marathi_name": "Pav Bhaji",
-    "benefit": []
+    "benefit": [
+      "Green Beans And Peas Are Rich Is Dietary Fiber. ",
+      "The Iron And Vitamins In Them Boosts Our Immune System.",
+      "Pav And Potato Provide Carbohydrate ."
+    ]
   }
 ]
